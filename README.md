@@ -1,4 +1,4 @@
-# UDACITY-DAND-Explore-Weather-Trends-
+# Udacity-DAND-Explore-Weather-Trends-
 ## Project 1
 ## Overview
 In this project, I analyzed Houston, TX and global temperature data and compared their temperature trends. It includes three parts:
